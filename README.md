@@ -10,7 +10,7 @@
 14:20～15:30　[2. シェルスクリプト＆バッチジョブ（担当：森　宙史）](https://github.com/genome-sci/basic_course_2024/tree/main/2)<br>
 15:30～16:30　[3. 解析環境の構築（担当：坂本　美佳）](https://github.com/genome-sci/basic_course_2024/tree/main/3)<br>
 16:30～16:40　休憩<br>
-16:40～17:40　[4. 遺伝研スパコンでの解析の実践（RNA-seq解析等）（担当：TBA）](https://github.com/genome-sci/basic_course_2024/tree/main/4)<br>
+16:40～17:40　[4. 遺伝研スパコンでの解析の実践（RNA-seq解析等）（担当：東　光一）](https://github.com/genome-sci/basic_course_2024/tree/main/4)<br>
 
 遺伝研スパコンのアカウント申請は、現地参加の方のみ必要です。
 オンライン参加の方は遺伝研スパコンアカウントは不要です。
