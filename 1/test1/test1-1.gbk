@@ -1,0 +1,415 @@
+LOCUS       contig03                3103 bp    DNA     linear   BCT 25-JAN-2018
+DEFINITION  Lactobacillus delbrueckii subsp. lactis DSM 20072 DNA, contig:
+            contig03.
+ACCESSION   contig03
+VERSION     contig03.1
+DBLINK      BioProject: PRJDB90001
+            BioSample: SAMD90000000
+KEYWORDS    .
+SOURCE      Lactobacillus delbrueckii subsp. lactis DSM 20072
+  ORGANISM  Lactobacillus delbrueckii subsp. lactis DSM 20072
+            .
+REFERENCE   1
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Draft genome sequence of XXX
+  JOURNAL   Unpublished. (2018)
+REFERENCE   2  (bases 1 to 3103)
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Direct Submission
+  JOURNAL   Contact:Paul Simon National Institute of Genetics, DNA Data Bank of
+            Japan; Yata1111, Mishima, Shizuoka 411, Japan
+            URL:http://dfast.nig.ac.jp
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: HGAP assembly protocol version 3
+            Genome Coverage       :: 158x
+            Sequencing Technology :: PacBio RSII
+            ##Genome-Assembly-Data-END##
+            Annotated by DFAST (https://dfast.nig.ac.jp).
+            Comment test
+            Comment2
+FEATURES             Location/Qualifiers
+     source          1..3103
+                     /mol_type="genomic DNA"
+                     /organism="Lactobacillus delbrueckii subsp. lactis"
+                     /strain="DSM 20072"
+     rRNA            complement(89..2992)
+                     /product="23S ribosomal RNA"
+                     /inference="COORDINATES:profile:Barrnap:0.8"
+                     /locus_tag="LDL20072_r00020"
+                     /note="Barrnap_2"
+ORIGIN
+        1 gccattgcca ccgcactctt tgcttgagct tgcacgctca aaactgaata tcttttacca
+       61 agtcaaaacc tcattgcttt gctcttttgg tcaagtcctc gactgattag taccggtccg
+      121 ctccaagcct cacggctctt ccactcccgg cctatctacc tcatcgtctc tgaggtgtct
+      181 tactttcttg aagaaatggg aaatctcatc ttgagggggg cttcgcactt agatgctttc
+      241 agcgcttatc ccgtccgcac atagctaccc agcgatgcct ttggcaagac aactggtaca
+      301 ccagcggtgc gtccatcccg gtcctctcgt actaaggaca gctcctctca aatttcctgc
+      361 gcccacgacg gatagggacc gaactgtctc acgacgttct gaacccagct cgcgtgccgc
+      421 tttaatgggc gaacagccca acccttggga ccgacttcag ccccaggatg cgacgagccg
+      481 acatcgaggt gccaaacctc cccgtcgatg tgaactcttg ggggagataa gcctgttatc
+      541 cccagggtag cttttatccg ttgagtgatg gcccttccat gcggtaccac cagatcacta
+      601 agccctactt tcgtacctgc tcgagttgtc tctctcgcag tcaagctccc ttttgccttt
+      661 acactctgcg aatgatttcc aaccattctg agggaacctt tgggcgcctc cgttacactt
+      721 taggaggcga ccgccccagt caaactgccc gtcaaacact gtcctcggcc tggatcacag
+      781 gcctgagtta gagcatccgt caagcaaggg tagtatccca ccagcgcctc agataagact
+      841 ggcgtcctat cttctccggc tcctacctat cctgtacatg cttgacagat acccaatatt
+      901 aaactgcagt aaagctccat ggggtctttc cgtcctgtcg cgggtaaccc gcatcttcac
+      961 gggtattata atttcaccga gtctctcgtt gagacagtgc ccaaatcatt acacctttcg
+     1021 tgcaggtcgg aacttacccg acaaggaatt tcgctacctt aggaccgtta tagttacggc
+     1081 cgccgtttac tggggcttca attcaaacct tcgcttgcgc taagctctcc tcttaacctt
+     1141 ccagcaccgg gcaggtgtca gcacctatac ttcatcttac gattttgcag atgcctgtgt
+     1201 ttttgataaa cagttgcttg ggccttttca ctgcggctga tcttgcgacc agcgcccctt
+     1261 ctcccgaagt tacggggcca ttttgccgag ttccttaacg agagttctct cgctcacctg
+     1321 aggatactct cctcgactac ctgtgtcggt ttgcggtacg ggtgcaccgt ttctggctag
+     1381 aagcttttct cggcagtgtg acgtcgcagc cttcgctact ttaatttcgc tcctcatcac
+     1441 gccttgtcct tatgagagca agcatttgac tcgctctcag acttgacgct tgaacgtggt
+     1501 atccagcacc acgcgctgct agcctcctgc gtccctccat cgctcataac gattcggtgc
+     1561 agtacaggaa tttcaacctg ttgtccatcg actacgcctc tcggcctcgc cttaggtccc
+     1621 gacttaccct gggcggacga gcctgcccca ggaaacctta gtcttgcggc ggacaggatt
+     1681 ctcacctgtc tttcgttact cataccggca ttctcacttc tagaagctcc acatgtcctc
+     1741 tcggtcatgc ttcaccgccg ctagaacgct ctcctaccac gtgcataaac gcacatccac
+     1801 agtttcggta tcatgcttag ccccggtaaa ttttcggcgc ggcgtcactc gactagtgag
+     1861 ctattacgca ctctttgaat gatggctgct tctgagccaa cgtcctagtt gtctgcgcaa
+     1921 ctccacatcc ttttccactt agcatgaatt ttgggacctt aactggtgat ctgggctgtt
+     1981 tccctttcga ctacggatct tatcactcgc agtctgactc ccgcacataa atgtctggaa
+     2041 ttcgtagttt atctgaattc agtaaccctt gacgggcccc tagtccaaac agagctctac
+     2101 ctccagcatc ctctttgcga ggctagccct aaagctattt cggagagaac cagctatctc
+     2161 caagttcgtt tggaatttca ccgctaccca caactcatcc ccgcaatttt caacttacgt
+     2221 gggttcggtc ctccagcgcg ttttaccgcg ccttcaacct ggtcatgggt aggtcacttg
+     2281 gtttcgggtc tgcgtcagcc aactgctcgc cctcttcaga ctcgctttcg ctgcggctcc
+     2341 gtcttttctg acttaacctt gctgactaac gcaactcgcc ggttcattct acaaaaggca
+     2401 cgccattacc cgttaacggg ctctgactac ttgtaggcac acggtttcag gttctctttc
+     2461 actcccctcc cggggttctt ttcacctttc cctcacggta ctggttcact atcggtcact
+     2521 ggttagtatt tagccttgcg agatggtcct cgcggattca agcgggattt cacgtgtccc
+     2581 gccctactca ggatactgat aggccttctt tggatttcgc ttacggggct ctcaccctct
+     2641 ctggcgcgtt ttcccaaacg cttctgctat cctctgaagt gccatgtctc agtcctacaa
+     2701 ccccggcaga taaatctgcc ggtttgggct ctttcctgtt cgctcgccgc tacttgggaa
+     2761 atcgatattt ctttctcttc ctgcagctac ttagatgttt cagttcgctg cgtgttccct
+     2821 ccttaagcta tgtattcact taaggatagc atgtctgcac atgctgggtt cccccattcg
+     2881 gagacctccg gatcaaagcc tacttacggc tccccgaaga ctttcgcggt tagtcgcgtc
+     2941 cttcatcggc ttccagtgcc aaggcattca ccgtgcgccc ttcttcactt gaccttgcaa
+     3001 gtttgttctt tcgaactctc tcggtcgctt tgcaatgttt tcattgatct caatgattct
+     3061 cggttttttc ttggaattaa gatattcagt tttcaacgta caa
+//
+LOCUS       contig04                2314 bp    DNA     linear   BCT 25-JAN-2018
+DEFINITION  Lactobacillus delbrueckii subsp. lactis DSM 20072 DNA, contig:
+            contig04.
+ACCESSION   contig04
+VERSION     contig04.1
+DBLINK      BioProject: PRJDB90001
+            BioSample: SAMD90000000
+KEYWORDS    .
+SOURCE      Lactobacillus delbrueckii subsp. lactis DSM 20072
+  ORGANISM  Lactobacillus delbrueckii subsp. lactis DSM 20072
+            .
+REFERENCE   1
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Draft genome sequence of XXX
+  JOURNAL   Unpublished. (2018)
+REFERENCE   2  (bases 1 to 2314)
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Direct Submission
+  JOURNAL   Contact:Paul Simon National Institute of Genetics, DNA Data Bank of
+            Japan; Yata1111, Mishima, Shizuoka 411, Japan
+            URL:http://dfast.nig.ac.jp
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: HGAP assembly protocol version 3
+            Genome Coverage       :: 158x
+            Sequencing Technology :: PacBio RSII
+            ##Genome-Assembly-Data-END##
+            Annotated by DFAST (https://dfast.nig.ac.jp).
+            Comment test
+            Comment2
+FEATURES             Location/Qualifiers
+     source          1..2314
+                     /mol_type="genomic DNA"
+                     /organism="Lactobacillus delbrueckii subsp. lactis"
+                     /strain="DSM 20072"
+     CDS             598..1452
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MGATSSTQASADYLAAPLTNGFLQGYNTLDALAALDFGITVVTAI
+                     KGFKIKEGKETSLALAKTGAIGFAGIAIIYLILILVALGAGSLHYFKLSENGGIAFAQI
+                     VHHYLGTFGEALLATLATITCMSTAIGLVVAFAQDSHKRFPKISYRTFLTFNCLLSFAI
+                     ANFGLTTIIAWSTPVLMFLYPLAIALIFCGLTSNFFNNDTAVYKFVVYFTIIPAIFDGL
+                     NASPSIISNTAFAKAALTFAGRYLPQKIQRESKLSFHAVSFYSYSKNSAGKGCRRCPCG
+                     RSF"
+                     /locus_tag="LDL20072_18520"
+                     /note="Partial hit; AEN78906.1 branched-chain amino acid
+                     permease [pid:60.3%, q_cov:87.0%, s_cov:54.0%,
+                     Eval:2.8e-80]"
+                     /note="Partial hit; Q1WRP1 branched-chain amino acid
+                     transport system carrier protein (Lactobacillus salivarius
+                     UCC118) [pid:53.0%, q_cov:87.0%, s_cov:53.3%,
+                     Eval:1.1e-67]"
+                     /note="MGA_1967"
+ORIGIN
+        1 tctcatatga tgcattgact gcccatacgg ctttcgtctt tttgcgctat atgttcatgt
+       61 cagttgagaa gcgagatgat gaatatgata ggacaatagg cgagctcttt tattgcatgg
+      121 tagacgagct tgcggacatc actttcaatc actcccttca gatcatggta gaagccatgt
+      181 ttgagagcgt gaaagagatc ttccaaccga cagaagagca gatggaaagg ttcaccaaag
+      241 cattcatttc ccgcctcccg aagtacatgc agaggcatta acgccatcac tagcagctta
+      301 attgaatatt tactggctaa actattgagt tttcaagtct tcatagttct ttttggtgtg
+      361 ggaagtttaa gttagattct atcataggtg gtcttagtaa tcatgttgaa gcctgtggac
+      421 gcatccaaat cattgcacct aatattgcac cgaatttagt agcaacattt tctgttctca
+      481 gttaatcaga gctggctatt ttgaagagaa tccagagata gcaagcactg aaaacgtata
+      541 agaattagat gaattttagg tcaatttaac atctttttaa ttaccgctat caagccaatg
+      601 ggggcaacca gcagcacgca agctagcgcc gactacctcg ctgctccttt gaccaacggc
+      661 ttcctgcagg gctacaacac cctggacgcc ctggcagctt tggacttcgg gattacggtt
+      721 gttacggcca tcaagggctt caagatcaag gaaggcaagg aaacttccct ggccctggcc
+      781 aagactggtg ccatcggttt tgccggcatc gccatcatct accttatcct tatcctggtt
+      841 gccctgggcg ccggcagcct gcactacttc aaattgtctg aaaacggcgg gattgctttt
+      901 gcccaaatcg tccaccacta cctgggcact ttcggggaag ccctcctggc gaccttggct
+      961 accatcacct gcatgtccac ggccatcggc ctggtagttg cctttgccca ggactcccac
+     1021 aagcgttttc caaaaatttc ctaccggact ttcctgacct ttaactgcct gctttcattt
+     1081 gccattgcca actttggctt gaccactatc atcgcctggt caactccggt tttgatgttc
+     1141 ctctaccccc tggccattgc cttgatcttc tgcggcttga ccagcaattt tttcaataat
+     1201 gatacggcag tttacaagtt tgtggtttac tttacgatta ttccggccat atttgacggc
+     1261 ttgaacgcgt ccccaagcat tattagcaat actgcttttg ctaaggctgc cctgaccttt
+     1321 gccggccgtt acctgccaca aaaaatacag cgtgaaagca aattaagctt tcacgctgtt
+     1381 tctttttact catattcaaa aaattcggct ggaaagggct gccgcagatg tccttgcggc
+     1441 cgttcttttt aacctggtaa aggttgtggt cggccaggcg gatcatgctc ttgatctcgt
+     1501 cgctgttatt ggcgatcccg taagtatagc cggcagagac gttgatgttc atgtagaggt
+     1561 ccaggacccg ggcatgttcc aattctttcc ggaactgccg gtctttttcc gcaaccgtgt
+     1621 cagtatcagt aaagtcgcgg agcaccagga attcgtcgcc cccgtaccgg tatagcagtg
+     1681 gccaatgccg tagatcttga gcaaggcctg gctgatcttc ttcaatactt cgtcgccgta
+     1741 gcggtggcca aagttgtcat tgaacttctt aaagtggtcc acgtccagca tcatagccag
+     1801 gattggcttg ccggtaaggt agttgaagtc ccgggcaaaa ttgtgccggt tcttcagact
+     1861 ggttaagtcg tctcttgcgg cctcgttttc caagcggttg atttgcttgc tggtattggt
+     1921 gatgtccata aagaagccga tcaatccaac gatttggtcc tggtcataga cgggagcttt
+     1981 gaggatcata atttcccgaa tccggccccg ggaccgggtc ttgccccgtt ccttgactgg
+     2041 ccccccgtct tctaaaagct gcatttcgct ttcctggaag ttttccggat ggacgttgag
+     2101 gcccagcttg tcatcgttgt ggccgataac ttctagcaga gtcaagccgt agtagtccaa
+     2161 aaagtgctgg ttagcccccg ggaagttccg ctgtctgtcc ttccagaaga cgctcagctt
+     2221 gatttggtgg gtgatggcat cccagaggtt ttccggctgg atcttcccgc cacttggtat
+     2281 tgaccgtcga tcaactggta gttcaaggtt ggga
+//
+LOCUS       contig05                2742 bp    DNA     linear   BCT 25-JAN-2018
+DEFINITION  Lactobacillus delbrueckii subsp. lactis DSM 20072 DNA, contig:
+            contig05.
+ACCESSION   contig05
+VERSION     contig05.1
+DBLINK      BioProject: PRJDB90001
+            BioSample: SAMD90000000
+KEYWORDS    .
+SOURCE      Lactobacillus delbrueckii subsp. lactis DSM 20072
+  ORGANISM  Lactobacillus delbrueckii subsp. lactis DSM 20072
+            .
+REFERENCE   1
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Draft genome sequence of XXX
+  JOURNAL   Unpublished. (2018)
+REFERENCE   2  (bases 1 to 2742)
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Direct Submission
+  JOURNAL   Contact:Paul Simon National Institute of Genetics, DNA Data Bank of
+            Japan; Yata1111, Mishima, Shizuoka 411, Japan
+            URL:http://dfast.nig.ac.jp
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: HGAP assembly protocol version 3
+            Genome Coverage       :: 158x
+            Sequencing Technology :: PacBio RSII
+            ##Genome-Assembly-Data-END##
+            Annotated by DFAST (https://dfast.nig.ac.jp).
+            Comment test
+            Comment2
+FEATURES             Location/Qualifiers
+     source          1..2742
+                     /mol_type="genomic DNA"
+                     /organism="Lactobacillus delbrueckii subsp. lactis"
+                     /strain="DSM 20072"
+     CDS             complement(306..443)
+                     /product="transposase"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /inference="similar to AA sequence:INSD:ADQ60539.1"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MNANTAAAVNILRRADDKNITLYTPYKKVEKILEDRYANKQSVMA
+                     "
+                     /locus_tag="LDL20072_18530"
+                     /note="ADQ60539.1 transposase [pid:100.0%, q_cov:100.0%,
+                     s_cov:100.0%, Eval:2.2e-19]"
+                     /note="MGA_1970"
+     CDS             complement(467..1624)
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MNLNSMWTNLGLKLKKIVQANESLAKEERQYLNYVFTASYYWQLI
+                     LQGRENEAESSKESKYPVLRVALTKDQLRHCFGYIRCLTRKYKPYPHSSAARCMLYDEI
+                     MWKVIQKDGADHLDIMTAVSGKRKQLKLTGPFCYANKKKRGDVQLILDRDKKRLEVHRA
+                     IKAAVHDLHKSKKKKVGMDKGLATLLSCSSGHEYGFNFSQLVNAEVERINRRNTNRNEY
+                     IQAAKELRHELSALQAKLAIKHSAKTERRLRNRIGSLERRISRLEERHLGSKLYHRQHA
+                     RKQCNMERIMNMSIRKMLLTEKPDVLVKEDLSFTKENCPKRRTAMKRRLDASCPRGPKA
+                     RWTIVSNTFVIAWGFGRLMSTRHIPLSSVRIVEPALAKGKAPTMN"
+                     /locus_tag="LDL20072_18540"
+                     /note="Partial hit; ADQ61207.1 transposase [pid:91.5%,
+                     q_cov:87.5%, s_cov:59.9%, Eval:7.8e-175]"
+                     /note="internal stop codon at [1661:1663](-)"
+                     /note="frameshifted; deletion at around 673"
+                     /note="MGA_1971"
+     CDS             complement(1661..2011)
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MTRRKLRTQIKTIRAYTVRLSDDELQELDKLFNNYGRCRDLLYGQ
+                     LCGINHMTDVENWRGPRDRIRQHEGKIKQARKAVRSWKKAYAENKTQNMKVPDSGTVRL
+                     ARQKLLNEQFHI"
+                     /locus_tag="LDL20072_18550"
+                     /note="Partial hit; ADQ61207.1 transposase [pid:100.0%,
+                     q_cov:100.0%, s_cov:20.4%, Eval:2.2e-64]"
+                     /note="internal stop codon at [1661:1663](-)"
+                     /note="MGA_1972"
+     CDS             complement(1980..2648)
+                     /product="regulatory protein, MerR:Resolvase, N-terminal
+                     protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /inference="similar to AA sequence:INSD:ADQ60213.1"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MAEEYLGIKDAAKYLKVSISTLRRWEKKGLITPMRTAGNRRRYTV
+                     RQLDDMLGLNTQKELGAVARRGLVIGYCRVSSSGQKADLERQAEVVANYCEKQGYQFRI
+                     IKDIGSGMNYKKKGLQELLRLVCEGGCSKIVVNYKDRLVRFGYELIETVCEEHNVDIEI
+                     INQTDDISYEEELTEDVLAIITVFSAKLYGKRSHRNEQIVAENRKLFSKDDKKETKDSN
+                     "
+                     /locus_tag="LDL20072_18560"
+                     /note="ADQ60213.1 regulatory protein, MerR:Resolvase,
+                     N-terminal protein [pid:99.1%, q_cov:100.0%, s_cov:100.0%,
+                     Eval:5.3e-123]"
+                     /note="MGA_1973"
+ORIGIN
+        1 ttaaacacat tcttgtcctc tagccgaagc tggaggattt ttttaggctt tttcacgagg
+       61 aaatgccttg tgcgttcggt tgtatgcacc tccactaggg ggagccctag cttctgatgc
+      121 ttttatcata cgcacagtca aagaattcgc catgcttcac aagcaagacc cgaaggccat
+      181 gccggtgaag cgggcaggaa tatatcctga atttccctag tgccgaggct ctaaggaaag
+      241 caagcgccca gtccaagacc tgaagcaggg acaagcccac gcttgtgacg ctttgcttaa
+      301 gatgactatg ccatcactga ctgcttattt gcataacgat cttcaagaat cttctcaact
+      361 tttttgtatg gcgtgtagag cgtgatgttc ttatcatccg ctctgcgcag aatgttgacg
+      421 gcggctgccg tattagcatt catctctccg cagtttggac acaccgttaa ttcatggtgg
+      481 gtgcctttcc tttcgctaaa gcgggctcca caattcggac agaactgaga ggtatatgcc
+      541 gggttgacat caaccgtccg aatccccagg caatcacaaa ggtattcgat acgatcgtcc
+      601 agcgtgcctt tggtccacga ggacagcttg cgtctaacct tcgcttcata gcggttcgcc
+      661 gctttgggca gttttctttg gtgaagctca ggtcctcctt gaccagaaca tccggctttt
+      721 cagtcaggag catctttctg atgctcatat tcattattcg ttccatgttg cactgctttc
+      781 gtgcatgctg gcggtgatag agcttgctgc ccagatggcg ttcttccaag cggctgatgc
+      841 ggcgctcaag actgccaatg cggtttctaa gccgccgctc agtcttggcc gaatgcttga
+      901 tggccagctt tgcttgcaga gcagacagct catgtctcag ctctttggct gcctgaatgt
+      961 actcgttgcg gttggtattg cgccgattta tccgttcaac ctcggcattc acgagctggc
+     1021 tgaaattgaa gccgtactca tgaccgctgc tgcacgacag aagcgttgcc agccctttgt
+     1081 ccatgccgac tttcttcttt ttgcttttgt gcagatcatg gacagcagcc ttgatagcgc
+     1141 gatggacttc cagacgcttc ttatcccggt cgaggatcag ctggacatcg ccgcgctttt
+     1201 tcttgttggc atagcagaat ggccccgtca gcttgagctg ctttcttttg cctgatacgg
+     1261 ctgtcatgat atccaaatgg tcagcgccgt ctttttgaat gactttccac attatttcgt
+     1321 catagagcat gcagcgagcg gctgatgaat gtggatatgg cttatacttt ctggtaagac
+     1381 acctgatgta tccaaagcag tggcgaagct gatctttcgt caaagccact ctcagtacag
+     1441 gatacttgct ttccttactt gactctgcct cattttcgcg tccctgcaga atgagctgcc
+     1501 agtaatatga tgcagtgaag acgtagttga gatactggcg ttcttccttt gccagcgact
+     1561 cattggcctg aacgattttc ttcagtttca gaccgagatt ggtccacatc gaattgaggt
+     1621 tcatgcacac ttcttttacg gcttccgtta cgtggcggcc ttaaatatga aactgctcat
+     1681 tcaggagctt ttgccttgca agtctgaccg ttccagaatc cggtaccttc atgttttgag
+     1741 tcttgttttc ggcataagct ttcttccagc ttctgacagc cttgcgagcc tgctttattt
+     1801 tgccttcgtg ctgacggatt ctgtcccttg ggccacgcca attttcaacg tcggtcatgt
+     1861 ggttgattcc gcacagctga ccataaagca gatcacggca tctgccgtag ttgttgaaca
+     1921 gcttatccag ttcctgcagc tcgtcatcgc tcaatcgtac cgtgtaagct ctgatcgtct
+     1981 taatttgagt ccttagtttc cttcttgtca tcttttgaga acagctttct gttttccgcg
+     2041 acaatctgct cattgcggtg actccgcttg ccatacagct tggcagagaa cacggtgatg
+     2101 attgccagta cgtcttccgt cagttcttct tcgtaggaga tgtcgtcagt ctgattgata
+     2161 atttcgatat ctacgttgtg ttcctcacag accgtctcaa tcagctcata gccgaaacgg
+     2221 acgagcctgt ctttgtagtt gacgactatc ttgctgcagc cgccttcgca aacaagtctc
+     2281 aaaagctcct gcaggccttt tttcttataa ttcattccgg agccaatgtc cttgatgatc
+     2341 cgaaactgat agccctgctt ttcgcagtag ttggcaacga cctcagcctg tctctcaagg
+     2401 tcggcctttt ggcctgaaga tgacacgcgg caatagccaa taacgaggcc gcgtctggca
+     2461 actgctccaa gctctttctg agtattgagc ccaagcatgt cgtccagctg tcggactgta
+     2521 tatctccgac gattgccggc tgttctcatt ggagtaatga ggcctttctt ttcccagcgt
+     2581 ctcagcgttg aaattgagac tttcagatat tttgcggcgt ctttgatgcc aagatactct
+     2641 tcagccataa gtggtttgtc ctttcgtctt tgttagttat atttttgcac agaaaaagac
+     2701 actagtaaag actagcgact agcatttaaa catattttga ca
+//
+LOCUS       contig06                1985 bp    DNA     linear   BCT 25-JAN-2018
+DEFINITION  Lactobacillus delbrueckii subsp. lactis DSM 20072 DNA, contig:
+            contig06.
+ACCESSION   contig06
+VERSION     contig06.1
+DBLINK      BioProject: PRJDB90001
+            BioSample: SAMD90000000
+KEYWORDS    .
+SOURCE      Lactobacillus delbrueckii subsp. lactis DSM 20072
+  ORGANISM  Lactobacillus delbrueckii subsp. lactis DSM 20072
+            .
+REFERENCE   1
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Draft genome sequence of XXX
+  JOURNAL   Unpublished. (2018)
+REFERENCE   2  (bases 1 to 1985)
+  AUTHORS   Mishima,Y., Tanizawa,Y., Garfunkel,A. and Simon,P.
+  TITLE     Direct Submission
+  JOURNAL   Contact:Paul Simon National Institute of Genetics, DNA Data Bank of
+            Japan; Yata1111, Mishima, Shizuoka 411, Japan
+            URL:http://dfast.nig.ac.jp
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: HGAP assembly protocol version 3
+            Genome Coverage       :: 158x
+            Sequencing Technology :: PacBio RSII
+            ##Genome-Assembly-Data-END##
+            Annotated by DFAST (https://dfast.nig.ac.jp).
+            Comment test
+            Comment2
+FEATURES             Location/Qualifiers
+     source          1..1985
+                     /mol_type="genomic DNA"
+                     /organism="Lactobacillus delbrueckii subsp. lactis"
+                     /strain="DSM 20072"
+     CDS             198..455
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MIEQQDKLFEDEDAREILAQLYRYHPRALRLPMQNQKVLLLEQCQ
+                     LITKATSQAVVDMTDPRFPYVLQPEAEQRIKKELAAEKPK"
+                     /locus_tag="LDL20072_18570"
+                     /note="MGA_1974"
+ORIGIN
+        1 aattggcgaa ctagtttagc tttgctagcg actaattttc ttcctgaaaa atatttggtt
+       61 aggtttcact tggaaaagtt cttaaatgat tataatccat atattttaat agtctttttt
+      121 ggatcgttgt ttttgattat tattcatttt ggaagtaaga aacgtaaaga aaaaaagata
+      181 aggcagttaa gaaatatttg atagaacaac aggataaact atttgaggat gaagatgctc
+      241 gagaaatttt agctcaactt tataggtatc atccaagagc tttgagattg cctatgcaaa
+      301 atcaaaaggt attgttatta gaacaatgtc aacttattac aaaagctact agtcaagccg
+      361 tggtagatat gactgatcca agatttccgt atgtacttca gccggaagca gagcagagaa
+      421 taaaaaaaga attagctgct gagaaaccaa aataattttt tcttgtaaag caaatgtgag
+      481 tgatgaaaat ttttcgtaaa aaaataagcg gttgattctg ccccgctggc aaagcgtccc
+      541 tcggaagagc tcacacttta tctcgtaaag tatagtgagt tatactttac ttggaagatg
+      601 accgaaaaca gggtgtgtgt ggtgtgagtt atgtagttgc cagaatgcag aaattggagt
+      661 agctattaac gtggctactc tttttttagt ttgctttgtt tgtggcggcg ggggtggtta
+      721 atactaatta gacaaaaata tagtggtagg gctgtggtga gtagctataa acacacacca
+      781 cggttttttt agttgatttt ttgagccaaa acaagccaaa acgactggct ataatcccct
+      841 taagggtgac acttgaaata ataaaagtgt tatttcctta agggggtttt tacatttcaa
+      901 gttattcgac aatgaataga ctagagttgc tttatggcta tcaaaagaca gaatccggcc
+      961 tcaaagtata tgccgatatg catcatgtca atcagaatac gatgacaaga tggattcgac
+     1021 agtttctctt gcatggtttg gcgggagttc gccatcgttc attcaatcat cgctattcac
+     1081 taaataccaa gattgaagcc gtcaaagagt atcaagccgg tttcccgggt gaaaaaatca
+     1141 ttgaaaagta tgatattcgt agcctctctc aactaaaaca gtggtcgatc cagtacaata
+     1201 atgatgagct aaagactaag tcaagaaagc gagtcagaaa aatgggtcga aaagttagtt
+     1261 ttgaagagaa atgcaaaatc gtacagtggg tcttagacca tgactaccaa ggagcaacaa
+     1321 ttcagtttaa tgtaagctat cagcgtgtct actcatgggt tcgcaaatac catgaggcag
+     1381 ctgacagttg ggaagcctta aaagataatc gcgggcatcg caagccacaa aaagctttag
+     1441 aagagatgac cgaaaaagag cgacttgaag ctgaaattaa aagactaaag aaaatcaatc
+     1501 gagaaatgga gcttgagatc gcatttgcaa aaaaattagt cgaaatacgc aatcgggggg
+     1561 atgaagcgac cggacgatat caagcagttc aagaattaat caacgaaacc gcaagttccg
+     1621 ttagcgaact gactaaaatt gccaaggttt cacgcaaatc atactatcag tggctcaaaa
+     1681 ggcagccaat acaaagagaa attgagaacc aggcaatttt ggaagcaatc tatcaaattg
+     1741 aaaaacgcca tcagaactgt gctggttata aaaaagtaac cgcgatttta aacaatgaga
+     1801 atgggaaaaa tcaagaaatt ccagaataca ccgtttcgtt tgcttttcgt atcaatatta
+     1861 agcgtgtgcg tcgaatcatg cggaaacacg gcattaaagc tgatgtccgt cagaaaaagc
+     1921 gcagccgcaa gaaagaacaa caacagtacc aagaggataa tttatcagct tctggttacc
+     1981 agaag
+//
