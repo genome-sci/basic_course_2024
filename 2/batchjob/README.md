@@ -9,6 +9,7 @@
 　  
 ### 遺伝研スパコンにおけるバッチジョブの実行方法
 シェルスクリプトで処理を記述した上で、Altair Grid Engine(AGE)を用いてqsubコマンドでシェルスクリプトを実行させる。
+ただし、2025年3月以降はqsubコマンドは遺伝研スパコンでは使えなくなる可能性があるので注意。
 
 詳しくは、  
 - [Grid Engineの概要](https://sc.ddbj.nig.ac.jp/software/grid_engine/)  
